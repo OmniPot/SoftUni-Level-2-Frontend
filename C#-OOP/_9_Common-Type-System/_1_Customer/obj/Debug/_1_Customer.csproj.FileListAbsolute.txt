@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\_9_Common-Type-System\_1_Customer\obj\Debug\_1_Customer.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\_9_Common-Type-System\_1_Customer\bin\Debug\_1_Customer.exe
+E:\Visual Studio Projects\_9_Common-Type-System\_1_Customer\bin\Debug\_1_Customer.pdb
+E:\Visual Studio Projects\_9_Common-Type-System\_1_Customer\obj\Debug\_1_Customer.exe
+E:\Visual Studio Projects\_9_Common-Type-System\_1_Customer\obj\Debug\_1_Customer.pdb

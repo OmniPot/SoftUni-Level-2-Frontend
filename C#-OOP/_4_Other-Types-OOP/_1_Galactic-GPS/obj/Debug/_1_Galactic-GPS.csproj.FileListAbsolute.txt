@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\_4_Other-Types-OOP\_1_Galactic-GPS\obj\Debug\_1_Galactic-GPS.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\_4_Other-Types-OOP\_1_Galactic-GPS\bin\Debug\_1_Galactic-GPS.exe
+E:\Visual Studio Projects\_4_Other-Types-OOP\_1_Galactic-GPS\bin\Debug\_1_Galactic-GPS.pdb
+E:\Visual Studio Projects\_4_Other-Types-OOP\_1_Galactic-GPS\obj\Debug\_1_Galactic-GPS.exe
+E:\Visual Studio Projects\_4_Other-Types-OOP\_1_Galactic-GPS\obj\Debug\_1_Galactic-GPS.pdb

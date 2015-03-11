@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\_4_Other-Types-OOP\_3_Generic-List\bin\Debug\_3_Generic-List.exe
+E:\Visual Studio Projects\_4_Other-Types-OOP\_3_Generic-List\bin\Debug\_3_Generic-List.pdb
+E:\Visual Studio Projects\_4_Other-Types-OOP\_3_Generic-List\obj\Debug\_3_Generic-List.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\_4_Other-Types-OOP\_3_Generic-List\obj\Debug\_3_Generic-List.exe
+E:\Visual Studio Projects\_4_Other-Types-OOP\_3_Generic-List\obj\Debug\_3_Generic-List.pdb

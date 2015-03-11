@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\_5_Inheritance-Abstraction\_2_Human-Student-Worker\bin\Debug\_2_Human-Student-Worker.exe
+E:\Visual Studio Projects\_5_Inheritance-Abstraction\_2_Human-Student-Worker\bin\Debug\_2_Human-Student-Worker.pdb
+E:\Visual Studio Projects\_5_Inheritance-Abstraction\_2_Human-Student-Worker\obj\Debug\_2_Human-Student-Worker.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\_5_Inheritance-Abstraction\_2_Human-Student-Worker\obj\Debug\_2_Human-Student-Worker.exe
+E:\Visual Studio Projects\_5_Inheritance-Abstraction\_2_Human-Student-Worker\obj\Debug\_2_Human-Student-Worker.pdb

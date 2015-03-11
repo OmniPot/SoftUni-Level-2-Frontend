@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\_5_Inheritance-Abstraction\_1_School\bin\Debug\_1_School.exe
+E:\Visual Studio Projects\_5_Inheritance-Abstraction\_1_School\bin\Debug\_1_School.pdb
+E:\Visual Studio Projects\_5_Inheritance-Abstraction\_1_School\obj\Debug\_1_School.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\_5_Inheritance-Abstraction\_1_School\obj\Debug\_1_School.exe
+E:\Visual Studio Projects\_5_Inheritance-Abstraction\_1_School\obj\Debug\_1_School.pdb

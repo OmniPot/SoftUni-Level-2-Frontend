@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_1_Customer", "_1_Customer\_1_Customer.csproj", "{671A1106-48AA-4B7D-B7D2-FCB9691F3EBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_2_String-Disperser", "_2_String-Disperser\_2_String-Disperser.csproj", "{4C2C51B9-8BB9-48F9-BF23-5FBF826A7EA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{671A1106-48AA-4B7D-B7D2-FCB9691F3EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671A1106-48AA-4B7D-B7D2-FCB9691F3EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671A1106-48AA-4B7D-B7D2-FCB9691F3EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671A1106-48AA-4B7D-B7D2-FCB9691F3EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C2C51B9-8BB9-48F9-BF23-5FBF826A7EA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2C51B9-8BB9-48F9-BF23-5FBF826A7EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2C51B9-8BB9-48F9-BF23-5FBF826A7EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2C51B9-8BB9-48F9-BF23-5FBF826A7EA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

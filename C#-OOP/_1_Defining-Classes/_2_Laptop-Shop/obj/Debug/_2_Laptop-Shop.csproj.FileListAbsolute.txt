@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\_1_Defining-Classes\_2_Laptop-Shop\bin\Debug\_2_Laptop-Shop.exe
+E:\Visual Studio Projects\_1_Defining-Classes\_2_Laptop-Shop\bin\Debug\_2_Laptop-Shop.pdb
+E:\Visual Studio Projects\_1_Defining-Classes\_2_Laptop-Shop\obj\Debug\_2_Laptop-Shop.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\_1_Defining-Classes\_2_Laptop-Shop\obj\Debug\_2_Laptop-Shop.exe
+E:\Visual Studio Projects\_1_Defining-Classes\_2_Laptop-Shop\obj\Debug\_2_Laptop-Shop.pdb

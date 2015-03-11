@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_1_Galactic-GPS", "_1_Galactic-GPS\_1_Galactic-GPS.csproj", "{A0C99C18-5649-443B-A824-7FA2D78C5714}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_2_Fraction-Calculator", "_2_Fraction-Calculator\_2_Fraction-Calculator.csproj", "{CC9194BD-8F92-4810-BD95-9346194721C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_3_Generic-List", "_3_Generic-List\_3_Generic-List.csproj", "{6B36E157-C3A3-458B-A152-74741B8CF51F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_4_Generic-List-Version", "_4_Generic-List-Version\_4_Generic-List-Version.csproj", "{0BCC4492-4E14-4FE3-B706-5CFBC1F6A1E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0C99C18-5649-443B-A824-7FA2D78C5714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C99C18-5649-443B-A824-7FA2D78C5714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C99C18-5649-443B-A824-7FA2D78C5714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C99C18-5649-443B-A824-7FA2D78C5714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC9194BD-8F92-4810-BD95-9346194721C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9194BD-8F92-4810-BD95-9346194721C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9194BD-8F92-4810-BD95-9346194721C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9194BD-8F92-4810-BD95-9346194721C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B36E157-C3A3-458B-A152-74741B8CF51F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B36E157-C3A3-458B-A152-74741B8CF51F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B36E157-C3A3-458B-A152-74741B8CF51F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B36E157-C3A3-458B-A152-74741B8CF51F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BCC4492-4E14-4FE3-B706-5CFBC1F6A1E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BCC4492-4E14-4FE3-B706-5CFBC1F6A1E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BCC4492-4E14-4FE3-B706-5CFBC1F6A1E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BCC4492-4E14-4FE3-B706-5CFBC1F6A1E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

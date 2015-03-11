@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\_1_Defining-Classes\_3_PC-Catalog\bin\Debug\_3_PC-Catalog.exe
+E:\Visual Studio Projects\_1_Defining-Classes\_3_PC-Catalog\bin\Debug\_3_PC-Catalog.pdb
+E:\Visual Studio Projects\_1_Defining-Classes\_3_PC-Catalog\obj\Debug\_3_PC-Catalog.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\_1_Defining-Classes\_3_PC-Catalog\obj\Debug\_3_PC-Catalog.exe
+E:\Visual Studio Projects\_1_Defining-Classes\_3_PC-Catalog\obj\Debug\_3_PC-Catalog.pdb

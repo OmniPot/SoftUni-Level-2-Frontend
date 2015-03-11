@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\_8_Functional-Programmig\_1_StringBuilder-Extensions\obj\Debug\_1_StringBuilder-Extensions.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\_8_Functional-Programmig\_1_StringBuilder-Extensions\bin\Debug\_1_StringBuilder-Extensions.exe
+E:\Visual Studio Projects\_8_Functional-Programmig\_1_StringBuilder-Extensions\bin\Debug\_1_StringBuilder-Extensions.pdb
+E:\Visual Studio Projects\_8_Functional-Programmig\_1_StringBuilder-Extensions\obj\Debug\_1_StringBuilder-Extensions.exe
+E:\Visual Studio Projects\_8_Functional-Programmig\_1_StringBuilder-Extensions\obj\Debug\_1_StringBuilder-Extensions.pdb

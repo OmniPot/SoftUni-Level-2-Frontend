@@ -1,0 +1,2 @@
+E:\Visual Studio Projects\_3_Exception-Handling\_2_Emter-Numbers\obj\Debug\_2_Emter-Numbers.exe
+E:\Visual Studio Projects\_3_Exception-Handling\_2_Emter-Numbers\obj\Debug\_2_Emter-Numbers.pdb

@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\_2_Static-Members-Namespaces\_4_HTML-Dispacher\bin\Debug\_4_HTML-Dispacher.exe
+E:\Visual Studio Projects\_2_Static-Members-Namespaces\_4_HTML-Dispacher\bin\Debug\_4_HTML-Dispacher.pdb
+E:\Visual Studio Projects\_2_Static-Members-Namespaces\_4_HTML-Dispacher\obj\Debug\_4_HTML-Dispatcher.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\_2_Static-Members-Namespaces\_4_HTML-Dispacher\obj\Debug\_4_HTML-Dispacher.exe
+E:\Visual Studio Projects\_2_Static-Members-Namespaces\_4_HTML-Dispacher\obj\Debug\_4_HTML-Dispacher.pdb

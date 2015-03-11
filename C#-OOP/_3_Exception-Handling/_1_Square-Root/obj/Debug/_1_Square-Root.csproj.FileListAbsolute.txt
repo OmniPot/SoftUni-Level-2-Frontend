@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\_3_Exception-Handling\_1_Square-Root\bin\Debug\_1_Square-Root.exe
+E:\Visual Studio Projects\_3_Exception-Handling\_1_Square-Root\bin\Debug\_1_Square-Root.pdb
+E:\Visual Studio Projects\_3_Exception-Handling\_1_Square-Root\obj\Debug\_1_Square-Root.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\_3_Exception-Handling\_1_Square-Root\obj\Debug\_1_Square-Root.exe
+E:\Visual Studio Projects\_3_Exception-Handling\_1_Square-Root\obj\Debug\_1_Square-Root.pdb

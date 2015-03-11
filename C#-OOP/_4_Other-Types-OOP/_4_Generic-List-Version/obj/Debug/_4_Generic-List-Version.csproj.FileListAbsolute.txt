@@ -1,0 +1,7 @@
+E:\Visual Studio Projects\_4_Other-Types-OOP\_4_Generic-List-Version\obj\Debug\_4_Generic-List-Version.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\_4_Other-Types-OOP\_4_Generic-List-Version\bin\Debug\_4_Generic-List-Version.exe
+E:\Visual Studio Projects\_4_Other-Types-OOP\_4_Generic-List-Version\bin\Debug\_4_Generic-List-Version.pdb
+E:\Visual Studio Projects\_4_Other-Types-OOP\_4_Generic-List-Version\bin\Debug\_3_Generic-List.exe
+E:\Visual Studio Projects\_4_Other-Types-OOP\_4_Generic-List-Version\bin\Debug\_3_Generic-List.pdb
+E:\Visual Studio Projects\_4_Other-Types-OOP\_4_Generic-List-Version\obj\Debug\_4_Generic-List-Version.exe
+E:\Visual Studio Projects\_4_Other-Types-OOP\_4_Generic-List-Version\obj\Debug\_4_Generic-List-Version.pdb

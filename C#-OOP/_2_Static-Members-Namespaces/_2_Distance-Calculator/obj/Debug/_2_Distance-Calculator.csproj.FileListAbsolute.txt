@@ -1,0 +1,4 @@
+E:\Visual Studio Projects\_2_Static-Members-Namespaces\_2_Distance-Calculator\bin\Debug\_2_Distance-Calculator.exe
+E:\Visual Studio Projects\_2_Static-Members-Namespaces\_2_Distance-Calculator\bin\Debug\_2_Distance-Calculator.pdb
+E:\Visual Studio Projects\_2_Static-Members-Namespaces\_2_Distance-Calculator\obj\Debug\_2_Distance-Calculator.exe
+E:\Visual Studio Projects\_2_Static-Members-Namespaces\_2_Distance-Calculator\obj\Debug\_2_Distance-Calculator.pdb

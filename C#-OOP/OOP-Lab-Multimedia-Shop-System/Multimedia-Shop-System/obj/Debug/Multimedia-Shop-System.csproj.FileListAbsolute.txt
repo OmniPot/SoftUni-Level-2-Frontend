@@ -1,0 +1,9 @@
+E:\Visual Studio Projects\OOP-Lab1\Multimedia-Shop-System\bin\Debug\Multimedia-Shop-System.exe
+E:\Visual Studio Projects\OOP-Lab1\Multimedia-Shop-System\bin\Debug\Multimedia-Shop-System.pdb
+E:\Visual Studio Projects\OOP-Lab1\Multimedia-Shop-System\obj\Debug\Multimedia-Shop-System.exe
+E:\Visual Studio Projects\OOP-Lab1\Multimedia-Shop-System\obj\Debug\Multimedia-Shop-System.pdb
+E:\Visual Studio Projects\OOP-Lab-Multimedia-Shop-System\Multimedia-Shop-System\obj\Debug\Multimedia-Shop-System.exe
+E:\Visual Studio Projects\OOP-Lab-Multimedia-Shop-System\Multimedia-Shop-System\obj\Debug\Multimedia-Shop-System.pdb
+E:\Visual Studio Projects\OOP-Lab-Multimedia-Shop-System\Multimedia-Shop-System\obj\Debug\Multimedia-Shop-System.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\OOP-Lab-Multimedia-Shop-System\Multimedia-Shop-System\bin\Debug\Multimedia-Shop-System.exe
+E:\Visual Studio Projects\OOP-Lab-Multimedia-Shop-System\Multimedia-Shop-System\bin\Debug\Multimedia-Shop-System.pdb

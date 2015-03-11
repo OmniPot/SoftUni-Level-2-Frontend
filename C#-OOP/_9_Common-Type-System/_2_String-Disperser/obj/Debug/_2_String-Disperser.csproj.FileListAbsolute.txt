@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\_9_Common-Type-System\_2_String-Disperser\obj\Debug\_2_String-Disperser.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\_9_Common-Type-System\_2_String-Disperser\bin\Debug\_2_String-Disperser.exe
+E:\Visual Studio Projects\_9_Common-Type-System\_2_String-Disperser\bin\Debug\_2_String-Disperser.pdb
+E:\Visual Studio Projects\_9_Common-Type-System\_2_String-Disperser\obj\Debug\_2_String-Disperser.exe
+E:\Visual Studio Projects\_9_Common-Type-System\_2_String-Disperser\obj\Debug\_2_String-Disperser.pdb

@@ -1,0 +1,5 @@
+E:\Visual Studio Projects\_7_Delegates-And-Events\_3_Student-Class\obj\Debug\_3_Student-Class.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\_7_Delegates-And-Events\_3_Student-Class\bin\Debug\_3_Student-Class.exe
+E:\Visual Studio Projects\_7_Delegates-And-Events\_3_Student-Class\bin\Debug\_3_Student-Class.pdb
+E:\Visual Studio Projects\_7_Delegates-And-Events\_3_Student-Class\obj\Debug\_3_Student-Class.exe
+E:\Visual Studio Projects\_7_Delegates-And-Events\_3_Student-Class\obj\Debug\_3_Student-Class.pdb

@@ -1,0 +1,11 @@
+﻿namespace TheSlum.Items
+{
+    using System.Linq;
+    using System;
+
+    public class Injection : Bonus
+    {
+        public Injection(string id)
+            : base(id, 3, 3, false, 200, 0, 0) { }
+    }
+}
