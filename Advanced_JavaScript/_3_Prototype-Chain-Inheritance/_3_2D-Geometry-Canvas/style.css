@@ -1,0 +1,10 @@
+div {
+	width: 400px;
+	height: 400px;
+	margin: 2% auto;
+}
+
+canvas {
+	margin: 0 auto;
+	background-color: rgba(127, 127, 127, 0.1);
+}
