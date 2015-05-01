@@ -1,0 +1,21 @@
+* {
+	padding: 0.5%;
+	margin: 0.5%;
+}
+
+table {
+	width: 50%;
+	margin: 0 auto;
+	border-collapse: collapse;
+	background: #eee;
+}
+
+table th, td {
+	padding: 1% 1%;
+	border: 1px solid black;
+}
+
+table th {
+	text-align: center;
+	background: rgb(0,200,0);
+}

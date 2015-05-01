@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Books-Service</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	<script src="../jquery-2.1.3.min.js"></script>
+	<script type="text/javascript" src="http://www.parsecdn.com/js/parse-1.4.0.min.js"></script>
+</head>
+<body>
+	<div class="main-container">
+		<h1>Books</h1>
+		<div class="buttons">
+			<input type="text" placeholder="Book Title" class="book-title-field">
+			<input type="text" placeholder="Book Author" class="book-author-field">
+			<input type="text" placeholder="Book ISBN" class="book-isbn-field">
+			<button class="button add-book-button">Add Book</button>
+			<button class="button edit-book-button">Edit Book</button>
+			<button class="button remove-book-button">Remove Book</button>
+		</div>
+		<div class="headings">
+			<p>Title</p>
+			<p>Author</p>
+			<p>ISBN</p>
+		</div>
+	</div>
+
+	<script src="scripts/books-data.js"></script>
+	<script src="scripts/books-controller.js"></script>
+	<script src="scripts/books-view.js"></script>
+	<script src="scripts/app.js"></script>
+</body>
+</html>

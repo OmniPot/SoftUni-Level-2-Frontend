@@ -1,0 +1,86 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	overflow-y: scroll;
+}
+
+.main-container, .towns {
+	display: inline-block;
+	vertical-align: middle;
+	width: 45%;
+	margin: 2% 0 0 7%;
+	padding: 2% 3%;
+	border-radius: 5px;
+	background: #ccc;
+	text-align: center;
+}
+
+.country-list, .town-list {
+	list-style: none;
+	width: 100%;
+}
+
+.country-list-item {
+	padding: 1%;
+	margin: 0.75% 0 ;
+	font-size: 2em;
+	border-radius: 4px;
+	color: #444;
+	cursor: pointer;
+}
+
+.town-list-item {
+	padding: 1%;
+	margin: 1% 0 ;
+	font-size: 1.5em;
+	border-radius: 4px;
+	color: #444;
+	cursor: pointer;
+}
+
+div.buttons {
+	width: 90%;
+	margin: 0 auto 2% auto;
+}
+
+.button {
+	width: 31%;
+	margin: 0 auto;
+	padding: 1%;
+	margin: 1%;
+}
+
+input.country-field {
+	display: block;
+	width: 70%;
+	margin: 0 auto 2% auto;
+	padding: .5%;
+	font-size: 20px;
+	font-family: times;
+	text-align: center;
+}
+
+input.town-field {
+	display: block;
+	width: 70%;
+	margin: 0 auto 2% auto;
+	padding: .2%;
+	font-size: 16px;
+	font-family: times;
+	text-align: center;
+}
+
+li.selected-country, li.selected-town {
+	background: #eee;
+}
+
+.towns {
+	display: inline-block;
+	vertical-align: top;
+	width: 30%;
+	margin: 2% auto;
+	background: #ddd;
+}

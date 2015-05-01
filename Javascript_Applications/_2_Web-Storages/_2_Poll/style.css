@@ -1,0 +1,49 @@
+* {
+	margin: 0;
+	padding: .5%;
+}
+
+#container{
+	width: 70%;
+	margin: 0 20% 0 0;
+	text-align: center;
+}
+
+.question {
+	display: inline-block;
+	width: 40%;
+	height: 12em;
+	padding: 3%;
+	margin: .2% auto;
+	text-align: left;
+	vertical-align: top;
+	background: #eee;
+	overflow: hidden;
+}
+
+.question > h3 {
+	vertical-align: middle;
+	text-align: center;
+}
+
+.answer {
+	padding: .75% 0;
+	margin: 3% auto;
+}
+
+.answer > input {
+	margin: 0 3%;
+}
+
+.timer {
+	position: fixed;
+	width: 12%;
+	right: 12%;
+	text-align: center;
+}
+
+.submit-button {
+	display: inline-block;
+	margin: 2% auto;
+	width: 20%;
+}

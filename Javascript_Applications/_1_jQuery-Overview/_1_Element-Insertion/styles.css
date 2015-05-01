@@ -1,0 +1,14 @@
+* {
+	margin: .5%;
+	padding: 1%;
+}
+
+.appended{
+	background: red;
+	color: white;
+}
+
+.prepended{
+	background: blue;
+	color: white;
+}
