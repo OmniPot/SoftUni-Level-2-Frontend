@@ -1,0 +1,13 @@
+<form name="addVideoForm" ng-submit="addVideo()">
+	<input type="text" name="title" placeholder="Title" ng-model="newVideo.title">
+	<input type="text" name="category" placeholder="* Category" ng-model="newVideo.category" required>
+	<span class="warning" ng-show="addVideoForm.category.$dirty && addVideoForm.category.$invalid">
+		<span ng-show="addVideoForm.category.$error.required">Video category is required.</span>
+	</span>
+	<input type="text" name="url" placeholder="* http://[img name].jpg\png\gif" ng-model="newVideo.url" required ng-pattern="/http:\/\/.*\.jpg|png|gif/">
+	<span class="warning" ng-show="addVideoForm.url.$dirty && addVideoForm.url.$invalid">
+		<span ng-show="addVideoForm.url.$error.required">Image url is required.</span>
+		<span ng-show="addVideoForm.url.$error.pattern">Invalid image url address.</span>
+	</span>
+	<input type="submit" value="Add video" ng-disabled="addVideoForm.$pristine || addVideoForm.$invalid">
+</form>

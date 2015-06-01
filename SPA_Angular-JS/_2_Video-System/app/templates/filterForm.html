@@ -1,0 +1,10 @@
+<form name="filterForm" class="filter">
+	<label>Filter videos</label>
+	<input type="text" placeholder="Category filter" ng-model="filterObject.category">
+	<input type="date" ng-model="filterObject.date">
+	<label>Available subtitles:</label>
+	<input type="checkbox" ng-model="filterObject.haveSubtitles">
+
+	<label class="orderByLbl">Order by: </label>
+	<select ng-model="orderObject.selectedOrder" ng-options="option.value for option in orderByOptions"></select>
+</form>

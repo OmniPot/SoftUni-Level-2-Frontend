@@ -1,0 +1,32 @@
+<div class="video clearfix" ng-repeat="video in data.videos
+									 | categoryFilter: filterObject.category
+									 | dateFilter: filterObject.date
+									 | subtitleFilter: filterObject.haveSubtitles 
+									 | orderBy: orderObject.selectedOrder.value 
+									 	as results">
+	<h2 class="title">{{video.title}}</h2>
+	<div class="image">
+		<img ng-src="{{video.pictureUrl}}" alt="Image here">
+	</div>
+	<div class="info">
+		<p class="length">Length: {{formatVideoLength(video.length)}}</p>
+		<p class="category">Category: {{video.category}}</p>
+		<p class="subscribers">Subscribers: {{video.subscribers}}</p>
+		<p class="date">Date added: {{formatVideoDate(video.date)}}</p>
+		<p class="substitles">Subtitles available: {{video.haveSubtitles ? '&#x2714' : '&#x2718'}}</p>
+	</div>
+	<div class="commentsContainer">
+		<div class="comment clearfix" ng-repeat="comment in video.comments">
+			<h3 class="commentUsername">{{comment.username}}</h3>
+			<p class="commentContent">{{comment.content}}</p>
+			<div class="info">
+				<span class="commentDate">{{formatVideoDate(comment.date)}} &sol;</span>
+				<span class="commentLikes">{{comment.likes}} likes</span>
+				<spanf>
+					<a href="{{comment.websiteUrl}}" class="commentUrl">{{comment.websiteUrl}}</a>
+				</span>
+			</div>
+		</div>
+	</div>
+</div>
+<h2 ng-show="results.length == 0">No results to be dispayed for the given filter criteria. :/</h2>
